@@ -1,0 +1,14 @@
+{
+  "name": "ui-canvas",
+  "description": "UI canvas: show screens as editable frames on a design canvas",
+  "owner": {
+    "name": "Jerico Lawrence"
+  },
+  "plugins": [
+    {
+      "name": "ui-canvas",
+      "source": "./",
+      "description": "Lay out UI as editable HTML frames on a design canvas: titled rows, coded frame names, header stickies"
+    }
+  ]
+}

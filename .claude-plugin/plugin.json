@@ -1,0 +1,9 @@
+{
+  "name": "ui-canvas",
+  "version": "0.1.0",
+  "description": "Lay out UI as editable HTML frames on a design canvas: titled rows, coded frame names, header stickies",
+  "author": {
+    "name": "Jerico Lawrence"
+  },
+  "repository": "https://github.com/jericolawrence/ui-canvas"
+}
